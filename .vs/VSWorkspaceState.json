@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\WaterProject.API",
+    "\\backend\\WaterProject.API\\Controllers",
+    "\\backend\\WaterProject.API\\Data"
+  ],
+  "SelectedNode": "\\backend\\WaterProject.API\\Controllers\\WaterController.cs",
+  "PreviewInSolutionExplorer": false
+}
